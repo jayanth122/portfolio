@@ -42,7 +42,8 @@ const TAB_DATA = [
     id: "experience",
     content: (
       <ul className='list-disc pl-6'>
-        <li><i><i>Full Stack Developer</i>, AI Focal, Canada</i></li>
+        <li><i><i>Associate Full-Stack Engineer</i>, Manulife </i></li>
+        <li><i><i>Full Stack Developer</i>, AI Focal </i></li>
         <li><i>Teaching Assistant</i>, ECE459 Programming for Performance (under prof.Jeff Zarnett), University of Waterloo</li>
         <li><a href=""><i>Software Development Engineering Intern</i>, LGSI</a></li>
       </ul>
