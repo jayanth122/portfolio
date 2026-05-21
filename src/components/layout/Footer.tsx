@@ -1,13 +1,4 @@
-import Link from "next/link";
-import { GitBranch, Link2, X, Coffee } from "lucide-react";
 import { portfolio } from "@/src/config/portfolio";
-
-const socialLinks = [
-  { href: portfolio.github, icon: GitBranch, label: "GitHub" },
-  { href: portfolio.linkedin, icon: Link2, label: "LinkedIn" },
-  { href: portfolio.twitter, icon: X, label: "Twitter" },
-  { href: portfolio.kofi, icon: Coffee, label: "Ko-fi" },
-];
 
 export function Footer() {
   const year = new Date().getFullYear();
