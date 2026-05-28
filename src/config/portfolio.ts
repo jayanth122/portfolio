@@ -6,7 +6,7 @@ export const portfolio = {
   initials: "JC",
   role: "Full Stack Developer",
   location: "Toronto, Ontario",
-  bio: "I build clean, fast, and accessible web applications. Passionate about great UI and developer experience. I love turning complex problems into simple, elegant solutions.",
+  bio: "I work across the stack with technologies like React, Angular, Node.js, Spring Boot, Azure, and CI/CD tools. I’m especially interested in AI-powered systems, including LLMs, RAG-based chatbots, and applications that make information easier to access and use. I care about building software that is clean, maintainable, secure, and practical. Whether it’s a frontend feature, backend API, or AI-driven tool, I enjoy turning complex problems into simple and dependable solutions.",
   shortBio: "Full Stack Developer based in Toronto, building clean and performant web experiences.",
   avatar: "/avatar.jpg",
 
