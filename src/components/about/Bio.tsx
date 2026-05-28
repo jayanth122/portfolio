@@ -55,8 +55,7 @@ export function Bio() {
 
           <p className="text-muted-foreground leading-relaxed">{portfolio.bio}</p>
           <p className="text-muted-foreground leading-relaxed">
-            When I&apos;m not coding, you&apos;ll find me exploring new design trends, contributing to
-            open-source projects, or sharing knowledge with the developer community.
+            When I&apos;m not coding, you&apos;ll find me exploring new AI trends, building projects, or sharing knowledge with the developer community.
           </p>
 
           <div className="flex flex-col gap-2 text-sm text-muted-foreground">
